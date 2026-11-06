@@ -47,8 +47,9 @@ HospitalManagementSystem/
 #Run the Project
 
 javac -d bin src/HospitalManagementSystem.java
-j
-ava -cp bin HospitalManagementSystem
+
+
+java -cp bin HospitalManagementSystem
 
 
 🏗️ Future Enhancements
