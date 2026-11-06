@@ -45,27 +45,20 @@ HospitalManagementSystem/
 7. **Reports**: Detailed breakdown and summary text reports for doctors, patients, appointments, and laboratory procedures.
 
 ---
-
-## Compilation & Execution Instructions (Windows 11 / CMD)
-
-### Prerequisites
-- JDK 21 installed and configured in your System `PATH`.
-
-### Step 1: Open Command Prompt / Terminal
-Navigate to the root directory where `HospitalManagementSystem` folder is located:
-```cmd
-cd HospitalManagementSystem
-```
-
-### Step 2: Compile the Java Application
-```cmd
+#Run the Project
 javac -d bin src/HospitalManagementSystem.java
-```
-
-### Step 3: Run the Application
-```cmd
 java -cp bin HospitalManagementSystem
 ```
+🏗️ Future Enhancements
+🔹 Graphical User Interface (GUI) using JavaFX/Swing.
+🔹 Database Integration with MySQL or PostgreSQL.
+🔹 User Authentication for secure access.
+🔹 Doctor Availability System to avoid overlapping appointments.
+
+🏆 Why Use This Project?
+✅ Simple and Effective: Console-based system for quick access.
+✅ Easy to Modify: Readable Java code structure.
+✅ Persistent Data Storage: Keeps data across sessions.
 
 ---
-*Created as a complete Core Java solution with persistent text file handling.*
+
