@@ -1,6 +1,6 @@
 # Hospital Management System (Core Java 21)
 
-A complete, advanced, fully functional Hospital Management System developed using **100% Core Java** and Java Swing.
+A complete, advanced, fully functional Hospital Management System developed using **Core Java** and Java Swing.
 
 ## Technologies Used
 - **Java 21** (Core Java)
@@ -44,11 +44,13 @@ HospitalManagementSystem/
 6. **Laboratory Management**: Track test requests, record test results, costs, and status.
 7. **Reports**: Detailed breakdown and summary text reports for doctors, patients, appointments, and laboratory procedures.
 
----
 #Run the Project
+
 javac -d bin src/HospitalManagementSystem.java
-java -cp bin HospitalManagementSystem
-```
+j
+ava -cp bin HospitalManagementSystem
+
+
 🏗️ Future Enhancements
 🔹 Graphical User Interface (GUI) using JavaFX/Swing.
 🔹 Database Integration with MySQL or PostgreSQL.
