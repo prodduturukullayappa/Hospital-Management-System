@@ -1,0 +1,2 @@
+PAT1001|John Doe|30|Male|O+|9123456789|john.doe@gmail.com|123 Elm Street, Cityville|Hypertension
+PAT1002|Jane Miller|28|Female|A+|9123456780|jane.m@gmail.com|456 Oak Avenue, Metroville|No prior history

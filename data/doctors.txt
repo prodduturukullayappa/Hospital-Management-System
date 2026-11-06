@@ -1,0 +1,2 @@
+DOC1001|Dr. Robert Smith|45|Male|Cardiology|MD, DM|18|9876543210|robert.smith@hospital.com|150.00
+DOC1002|Dr. Emily Davis|38|Female|Pediatrics|MD, DCH|12|9876543211|emily.davis@hospital.com|100.00

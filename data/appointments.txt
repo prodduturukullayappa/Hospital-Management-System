@@ -1,0 +1,2 @@
+APT1001|PAT1001|DOC1001|2026-11-10|10:00|Routine Checkup|Scheduled
+APT1002|PAT1002|DOC1002|2026-11-10|11:30|Pediatric Consultation|Completed
